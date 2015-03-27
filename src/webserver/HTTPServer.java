@@ -26,7 +26,7 @@ import java.net.InetSocketAddress;
  */
 public class HTTPServer {
      static int port = 8080;
-        static String ip = "127.0.0.1";
+        static String ip = "pranitChatServer.azurewebsites.net";
     static String publicFolder="public/";
     public static void main(String[] args) throws IOException {
         
