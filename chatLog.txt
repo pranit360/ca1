@@ -1,154 +1,62 @@
-Oct 10, 2014 8:04:38 PM ChatServer.Server handleNewClients
+Mar 27, 2015 6:07:29 PM ChatServer.Server handleNewClients
 INFO: Server started
-Oct 10, 2014 8:05:00 PM ChatServer.Server handleNewClients
+Mar 27, 2015 6:08:49 PM ChatServer.Server handleNewClients
 INFO: Connected to a client
-Oct 10, 2014 8:05:00 PM ChatServer.ClientHandler run
+Mar 27, 2015 6:08:50 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Mar 27, 2015 6:08:50 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#VALA 
+Mar 27, 2015 6:10:48 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Mar 27, 2015 6:10:49 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#KALO 
+Mar 27, 2015 6:10:49 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#KALO 
+Mar 27, 2015 6:11:24 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#KALO#HELLO 
+Mar 27, 2015 6:12:10 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#VALA#HI 
+Mar 27, 2015 6:14:25 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#KALO#ANOTHER MESSAGE 
+Mar 27, 2015 6:14:47 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#VALA#MESSAGE RECEIVED 
+Mar 27, 2015 6:16:00 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Mar 27, 2015 6:16:03 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MADA 
+Mar 27, 2015 6:16:03 PM ChatServer.ClientHandler run
+INFO: Received the message: CONNECT#MADA 
+Mar 27, 2015 6:16:25 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#KALO#R U RECEIVING? 
+Mar 27, 2015 6:21:23 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Mar 27, 2015 6:21:23 PM ChatServer.Server handleNewClients
+INFO: Connected to a client
+Mar 27, 2015 6:21:23 PM ChatServer.ClientHandler run
 INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:05:00 PM ChatServer.ClientHandler run
+Mar 27, 2015 6:21:23 PM ChatServer.ClientHandler run
 INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:05:00 PM ChatServer.ClientHandler run
+Mar 27, 2015 6:21:23 PM ChatServer.ClientHandler run
 INFO: Received the message: HOST: LOCALHOST:9090 
-Oct 10, 2014 8:05:00 PM ChatServer.ClientHandler run
+Mar 27, 2015 6:21:23 PM ChatServer.ClientHandler run
 INFO: Received the message: CONNECTION: KEEP-ALIVE 
-Oct 10, 2014 8:05:00 PM ChatServer.ClientHandler run
+Mar 27, 2015 6:21:23 PM ChatServer.ClientHandler run
+INFO: Received the message: ACCEPT: TEXT/HTML,APPLICATION/XHTML+XML,APPLICATION/XML;Q=0.9,IMAGE/WEBP,*/*;Q=0.8 
+Mar 27, 2015 6:21:23 PM ChatServer.ClientHandler run
+INFO: Received the message: USER-AGENT: MOZILLA/5.0 (WINDOWS NT 6.1; WOW64) APPLEWEBKIT/537.36 (KHTML, LIKE GECKO) CHROME/41.0.2272.101 SAFARI/537.36 
+Mar 27, 2015 6:21:23 PM ChatServer.ClientHandler run
+INFO: Received the message: ACCEPT-ENCODING: GZIP, DEFLATE, SDCH 
+Mar 27, 2015 6:21:23 PM ChatServer.ClientHandler run
+INFO: Received the message: ACCEPT-LANGUAGE: EN-US,EN;Q=0.8 
+Mar 27, 2015 6:21:23 PM ChatServer.ClientHandler run
 INFO: Received the message:  
-Oct 10, 2014 8:05:20 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:06:31 PM ChatServer.Server handleNewClients
+Mar 27, 2015 6:21:23 PM ChatServer.Server handleNewClients
 INFO: Connected to a client
-Oct 10, 2014 8:06:31 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#HEADY 
-Oct 10, 2014 8:06:31 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#HEADY 
-Oct 10, 2014 8:06:52 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:06:52 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:06:52 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:06:52 PM ChatServer.ClientHandler run
-INFO: Received the message: HOST: LOCALHOST:9090 
-Oct 10, 2014 8:06:52 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECTION: KEEP-ALIVE 
-Oct 10, 2014 8:06:52 PM ChatServer.ClientHandler run
-INFO: Received the message:  
-Oct 10, 2014 8:07:34 PM ChatServer.ClientHandler run
-INFO: Received the message: SEND#*#HELLO ALL 
-Oct 10, 2014 8:07:39 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:07:39 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:07:39 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:07:39 PM ChatServer.ClientHandler run
-INFO: Received the message: HOST: LOCALHOST:9090 
-Oct 10, 2014 8:07:39 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECTION: KEEP-ALIVE 
-Oct 10, 2014 8:07:39 PM ChatServer.ClientHandler run
-INFO: Received the message:  
-Oct 10, 2014 8:08:38 PM ChatServer.ClientHandler run
-INFO: Received the message: SEND#HEADY#HELLO ALL 
-Oct 10, 2014 8:08:41 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:08:41 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:08:41 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:08:41 PM ChatServer.ClientHandler run
-INFO: Received the message: HOST: LOCALHOST:9090 
-Oct 10, 2014 8:08:41 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECTION: KEEP-ALIVE 
-Oct 10, 2014 8:08:41 PM ChatServer.ClientHandler run
-INFO: Received the message:  
-Oct 10, 2014 8:09:44 PM ChatServer.ClientHandler run
-INFO: Received the message: SEND##CLOSE# 
-Oct 10, 2014 8:10:09 PM ChatServer.ClientHandler run
+Mar 27, 2015 6:26:27 PM ChatServer.ClientHandler run
+INFO: Received the message: SEND#MADA#I C UVE JOINED 
+Mar 27, 2015 6:26:53 PM ChatServer.ClientHandler run
 INFO: Closed a Connection
-Oct 10, 2014 8:10:19 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:10:19 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:10:19 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:10:19 PM ChatServer.ClientHandler run
-INFO: Received the message: HOST: LOCALHOST:9090 
-Oct 10, 2014 8:10:19 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECTION: KEEP-ALIVE 
-Oct 10, 2014 8:10:19 PM ChatServer.ClientHandler run
-INFO: Received the message:  
-Oct 10, 2014 8:13:27 PM ChatServer.ClientHandler run
-INFO: Received the message: SEND#LARS#HELLO 
-Oct 10, 2014 8:13:35 PM ChatServer.ClientHandler run
+Mar 27, 2015 6:27:21 PM ChatServer.ClientHandler run
 INFO: Closed a Connection
-Oct 10, 2014 8:15:52 PM ChatServer.ClientHandler run
-INFO: Received the message: SEND#HEADY#HELLO ALL 
-Oct 10, 2014 8:19:52 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:19:52 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#YYYY 
-Oct 10, 2014 8:19:52 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#YYYY 
-Oct 10, 2014 8:24:05 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:24:05 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:24:05 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:24:05 PM ChatServer.ClientHandler run
-INFO: Received the message: SEND#*#HELLO 
-Oct 10, 2014 8:24:05 PM ChatServer.ClientHandler run
-INFO: Closed a Connection
-Oct 10, 2014 8:28:52 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:28:52 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:28:52 PM ChatServer.ClientHandler run
-INFO: Received the message: GET / HTTP/1.1 
-Oct 10, 2014 8:28:52 PM ChatServer.ClientHandler run
-INFO: Received the message: HOST: LOCALHOST:9090 
-Oct 10, 2014 8:28:52 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECTION: KEEP-ALIVE 
-Oct 10, 2014 8:28:52 PM ChatServer.ClientHandler run
-INFO: Received the message:  
-Oct 10, 2014 8:29:15 PM ChatServer.ClientHandler run
-INFO: Closed a Connection
-Oct 10, 2014 8:29:27 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:29:27 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#UUU 
-Oct 10, 2014 8:29:27 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#UUU 
-Oct 10, 2014 8:29:33 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:32:37 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:32:37 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:32:37 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:32:37 PM ChatServer.ClientHandler run
-INFO: Received the message: SEND#*#HELLO 
-Oct 10, 2014 8:32:37 PM ChatServer.ClientHandler run
-INFO: Closed a Connection
-Oct 10, 2014 8:32:53 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:32:53 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:32:53 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:32:53 PM ChatServer.ClientHandler run
-INFO: Received the message: SEND#*#HELLO 
-Oct 10, 2014 8:32:53 PM ChatServer.ClientHandler run
-INFO: Closed a Connection
-Oct 10, 2014 8:33:14 PM ChatServer.Server handleNewClients
-INFO: Connected to a client
-Oct 10, 2014 8:33:14 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:33:14 PM ChatServer.ClientHandler run
-INFO: Received the message: CONNECT#LARS 
-Oct 10, 2014 8:33:14 PM ChatServer.ClientHandler run
-INFO: Received the message: SEND#UUU#HELLO 
-Oct 10, 2014 8:33:15 PM ChatServer.ClientHandler run
-INFO: Closed a Connection
-Oct 10, 2014 8:51:09 PM ChatServer.ClientHandler run
+Mar 27, 2015 6:27:47 PM ChatServer.ClientHandler run
 INFO: Closed a Connection
