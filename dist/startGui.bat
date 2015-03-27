@@ -1,0 +1,1 @@
+java -cp CA1.jar ChatClient.GUI 100.86.188.72 9090
