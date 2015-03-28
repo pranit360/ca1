@@ -77,6 +77,10 @@ publicFolder=args[2];}
             case ".docx":
           mime = "document/text";
           break;
+                    case ".txt":
+          mime = "document/text";
+          break;
+    
       }
       //FOLLOWING we create a new file to read derived from the path
       File file = new File(publicFolder + f);

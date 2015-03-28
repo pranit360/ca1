@@ -74,7 +74,7 @@
         <copy file="server.properties" todir="${dist.dir}"/>
         <copy file="startGui.bat" todir="${dist.dir}"/>
         <copy file="startServer.bat" todir="${dist.dir}"/>
-        
+        <copy file="startServer.bat" todir="${dist.dir}"/>
     </target>
 
 </project>
