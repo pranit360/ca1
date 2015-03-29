@@ -148,7 +148,7 @@ public class GUI extends javax.swing.JFrame  implements ChatListener {
 
         jLabel3.setText("Type message to send below:");
 
-        jLabel4.setText("chattingpranit.cloudapp.net");
+        jLabel4.setText("chatbypranit.cloudapp.net");
 
         jLabel5.setText("9090");
 
@@ -193,9 +193,9 @@ public class GUI extends javax.swing.JFrame  implements ChatListener {
                             .addGroup(jPanel1Layout.createSequentialGroup()
                                 .addGap(12, 12, 12)
                                 .addComponent(jLabel4)
-                                .addGap(171, 171, 171)
+                                .addGap(113, 113, 113)
                                 .addComponent(jLabel6)))
-                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
+                        .addContainerGap(265, Short.MAX_VALUE))))
             .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(31, 31, 31)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)

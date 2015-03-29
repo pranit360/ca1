@@ -26,7 +26,7 @@ import java.net.InetSocketAddress;
  */
 public class HTTPServer {
      static int port = 8080;
-        static String ip = "100.86.188.72";
+        static String ip = "100.87.182.125";
     static String publicFolder="public/";
     public static void main(String[] args) throws IOException {
         
